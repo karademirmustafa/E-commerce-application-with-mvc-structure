@@ -1,4 +1,6 @@
 # E-commerce-application-with-mvc-structure
+
+#Description
 I created a dynamic e-commerce staff with mvc structure for the ready-made template.
 
 #Technologies
