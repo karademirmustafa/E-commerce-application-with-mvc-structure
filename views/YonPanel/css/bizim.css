@@ -1,0 +1,175 @@
+ .bg-gradient-mvc{background-color:#2e0549;background-image:-webkit-gradient(linear,left top,left bottom,color-stop(10%,#2e0549),to(#582975));background-image:linear-gradient(180deg,#2e0549 10%,#582975 100%);background-size:cover}
+ 
+  .bg-gradient-gri{background-color:#e3e5e5;background-image:-webkit-gradient(linear,left top,left bottom,color-stop(10%,#e3e5e5),to(#e2eaea));background-image:linear-gradient(180deg,#e3e5e5 10%,#e2eaea 100%);background-size:cover}
+  
+
+  
+  .kalin {
+	 font-weight:600;
+	 font-size:18px;
+ }
+  .kalinyap {
+	 font-weight:800;
+	 font-size:13px;
+
+ }
+ .arkaplan {
+	 background-color:#D9D9D9;
+	 border-radius:10px;
+	 border:1px solid  #CCC;
+	 font-size:13px;
+	 overflow:hidden;
+ }
+
+ 
+
+ 
+ .basliktext {
+	 color:#582975;
+
+	 
+ }
+ .basliktext2 {
+	 color:#fff;
+
+	 
+ }
+ .geneltext {
+	 color:#fff;
+	 padding-top:10px;
+	 font-weight:700;
+	 	 font-size:13px;
+	
+
+	 
+ }
+ 
+ .spantext {
+	 color:#bd6dc7;
+	 padding-top:10px;
+	 font-weight:700;
+	 	 font-size:13px;
+	 
+ }
+ 
+  .geneltext2 {
+	 color:#582975;
+	 padding-top:10px;
+	 font-weight:700;
+	 	 font-size:13px;
+	
+
+	 
+ }
+ 
+
+ 
+ .btn-mvc{color:#fff;background-color:#582975;border-color:#2e0549}.btn-mvc:hover{color:#fff;background-color:#2e0549;border-color:#582975}.btn-mvc.focus,.btn-mvc:focus{-webkit-box-shadow:0 0 0 .2rem rgba(62,208,156,.5);box-shadow:0 0 0 .2rem rgba(62,208,156,.5)}.btn-mvc.disabled,.btn-mvc:disabled{color:#fff;background-color:#2e0549;border-color:#2e0549}.btn-mvc:not(:disabled):not(.disabled).active,.btn-mvc:not(:disabled):not(.disabled):active,.show>.btn-mvc.dropdown-toggle{color:#fff;background-color:#582975;border-color:#2e0549}.btn-mvc:not(:disabled):not(.disabled).active:focus,.btn-mvc:not(:disabled):not(.disabled):active:focus,.show>.btn-mvc.dropdown-toggle:focus{-webkit-box-shadow:0 0 0 .2rem rgba(62,208,156,.5);box-shadow:0 0 0 .2rem rgba(62,208,156,.5)}
+ 
+ 
+    .bg-gradient-beyazimsi{background-color:#ffffff;background-image:-webkit-gradient(linear,left top,left bottom,color-stop(10%,#ffffff),to(#e4e5e5));background-image:linear-gradient(180deg,#ffffff 10%,#e4e5e5 100%);background-size:cover;
+	border:1px solid #582975;
+	border-radius:5px;
+	overflow:hidden;
+	}
+	
+	.formeleman {
+		font-weight:700;
+		padding:10px;
+		border-bottom:1px solid #CACACA;
+		
+	}
+	.nocizgi {
+		border:none;
+		
+	}
+	
+	.kategorieleman {
+		border:1px solid #A3A3A3;
+		border-top:0;
+		color:#383838;
+		
+	}
+	.h6Eleman {
+		font-weight:700;
+		
+	}
+	.yescizgi {
+		border-right:1px solid #A3A3A3;
+		
+	}
+	
+	 .Kategoriarkaplan {
+	 background-color:#D9D9D9;
+	overflow:hidden;
+ }
+ 
+ .eklemebuton:link, .eklemebuton:visited {
+	 font-size:28px;
+	 text-decoration:none;
+	 color:#8ae64d;
+	 
+
+	 
+ }
+ 
+ .eklemebuton:hover {
+
+	 color:#62c81e;
+
+	 
+ }
+	
+	 .guncelbuton:link, .guncelbuton:visited {
+	 font-size:17px;
+	 text-decoration:none;
+	 color:#65b032;
+
+	 
+ }
+ 
+ .guncelbuton:hover {
+
+	 color:#62c81e;
+
+	 
+ }
+ 
+ 	 .silbuton:link, .silbuton:visited {
+	 font-size:25px;
+	 text-decoration:none;
+	 color:#d62259;
+
+	 
+ }
+ 
+ .silbuton:hover {
+
+	 color:#f44c7f;
+
+	 
+ }
+ 
+ .uruneklemeElemanlar{
+		font-weight:700;
+		padding:10px;
+		border-bottom:1px solid #CACACA;
+		border-right:1px solid #CACACA;
+ }
+  .uruneklemeElemanlarDiger{
+		font-weight:700;
+		padding:10px;
+		border-bottom:1px solid #CACACA;
+		
+ }
+ 
+   .bloklararasi{
+			border-right:1px solid #CACACA;
+
+ }
+   .uruneklemeBtn{
+			border-top:1px solid #CACACA;
+			padding:10px;
+
+ }
+ 
